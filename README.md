@@ -1,2 +1,2 @@
 # GameProgrammingProject
-Group project for GameProgramming
+Group project for Game Programming
